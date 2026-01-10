@@ -90,7 +90,7 @@ function App() {
         }  
     ]);
 
-    const shopName = "Jersey Shop Made with React JS";
+    const shopName = " Rufai Jersey Shop Made with React JS";
     let is_in_bag = items.filter(item => item.isInBag);
 
     function select_handler(id) {
